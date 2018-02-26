@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\julian chong\documents\visual studio 2015\projects\space invaders v1\space invaders v1\projectile.h(12): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\julian chong\documents\visual studio 2015\projects\space invaders v1\space invaders v1\enemy.h(12): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\julian chong\documents\visual studio 2015\projects\space invaders v1\space invaders v1\enemy.h(13): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\julian chong\documents\visual studio 2015\projects\space invaders v1\space invaders v1\ufo.h(16): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Space Invaders v1.vcxproj -> C:\Users\Julian Chong\Documents\Visual Studio 2015\Projects\Space Invaders v1\Debug\Space Invaders v1.exe
+  Space Invaders v1.vcxproj -> C:\Users\Julian Chong\Documents\Visual Studio 2015\Projects\Space Invaders v1\Debug\Space Invaders v1.pdb (Full PDB)
